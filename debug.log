@@ -1,0 +1,377 @@
+[2022-04-05 23:52:24,336] DEBUG    PluginManager Loading plugin: AnnounceBitTorrent (builtin)
+[2022-04-05 23:52:24,423] DEBUG    PluginManager New plugin registered to: SiteAnnouncer
+[2022-04-05 23:52:24,423] DEBUG    PluginManager Loading plugin: AnnounceLocal (builtin)
+[2022-04-05 23:52:24,468] DEBUG    PluginManager New plugin registered to: SiteAnnouncer
+[2022-04-05 23:52:24,468] DEBUG    PluginManager New plugin registered to: FileServer
+[2022-04-05 23:52:24,468] DEBUG    PluginManager New plugin registered to: ConfigPlugin
+[2022-04-05 23:52:24,468] DEBUG    PluginManager Loading plugin: AnnounceShare (builtin)
+[2022-04-05 23:52:24,470] DEBUG    TrackerStorage Loaded 7 shared trackers
+[2022-04-05 23:52:24,470] DEBUG    PluginManager New plugin registered to: SiteAnnouncer
+[2022-04-05 23:52:24,470] DEBUG    PluginManager New plugin registered to: FileRequest
+[2022-04-05 23:52:24,470] DEBUG    PluginManager New plugin registered to: FileServer
+[2022-04-05 23:52:24,470] DEBUG    PluginManager New plugin registered to: ConfigPlugin
+[2022-04-05 23:52:24,470] DEBUG    PluginManager Loading plugin: AnnounceZero (builtin)
+[2022-04-05 23:52:24,472] DEBUG    PluginManager New plugin registered to: SiteAnnouncer
+[2022-04-05 23:52:24,472] DEBUG    PluginManager Loading plugin: Bigfile (builtin)
+[2022-04-05 23:52:24,476] DEBUG    PluginManager New plugin registered to: UiRequest
+[2022-04-05 23:52:24,476] DEBUG    PluginManager New plugin registered to: UiWebsocket
+[2022-04-05 23:52:24,476] DEBUG    PluginManager New plugin registered to: ContentManager
+[2022-04-05 23:52:24,476] DEBUG    PluginManager New plugin registered to: SiteStorage
+[2022-04-05 23:52:24,476] DEBUG    PluginManager New plugin registered to: WorkerManager
+[2022-04-05 23:52:24,476] DEBUG    PluginManager New plugin registered to: FileRequest
+[2022-04-05 23:52:24,476] DEBUG    PluginManager New plugin registered to: Peer
+[2022-04-05 23:52:24,476] DEBUG    PluginManager New plugin registered to: Site
+[2022-04-05 23:52:24,476] DEBUG    PluginManager New plugin registered to: ConfigPlugin
+[2022-04-05 23:52:24,476] DEBUG    PluginManager Loading plugin: Chart (builtin)
+[2022-04-05 23:52:24,503] DEBUG    Db:Chart Connected to /home/choi/Zeronet/data/chart.db in 0.013s (opened: 1, sqlite version: 2.6.0)...
+[2022-04-05 23:52:24,503] DEBUG    Db:Chart Db check done in 0.013s, changed tables: []
+[2022-04-05 23:52:24,503] DEBUG    PluginManager New plugin registered to: SiteManager
+[2022-04-05 23:52:24,504] DEBUG    PluginManager New plugin registered to: UiWebsocket
+[2022-04-05 23:52:24,504] DEBUG    PluginManager Loading plugin: ContentFilter (builtin)
+[2022-04-05 23:52:24,523] DEBUG    PluginManager New plugin registered to: SiteManager
+[2022-04-05 23:52:24,523] DEBUG    PluginManager New plugin registered to: UiWebsocket
+[2022-04-05 23:52:24,523] DEBUG    PluginManager New plugin registered to: SiteStorage
+[2022-04-05 23:52:24,523] DEBUG    PluginManager New plugin registered to: UiRequest
+[2022-04-05 23:52:24,523] DEBUG    PluginManager Loading plugin: Cors (builtin)
+[2022-04-05 23:52:24,525] DEBUG    PluginManager New plugin registered to: UiWebsocket
+[2022-04-05 23:52:24,525] DEBUG    PluginManager New plugin registered to: UiRequest
+[2022-04-05 23:52:24,526] DEBUG    PluginManager Loading plugin: CryptMessage (builtin)
+[2022-04-05 23:52:24,594] INFO     - Libsecpk256k1 loaded: CompiledLib in 0.042s
+[2022-04-05 23:52:24,595] DEBUG    PluginManager New plugin registered to: UiWebsocket
+[2022-04-05 23:52:24,595] DEBUG    PluginManager New plugin registered to: User
+[2022-04-05 23:52:24,595] DEBUG    PluginManager Loading plugin: FilePack (builtin)
+[2022-04-05 23:52:24,596] DEBUG    PluginManager New plugin registered to: UiRequest
+[2022-04-05 23:52:24,596] DEBUG    PluginManager New plugin registered to: SiteStorage
+[2022-04-05 23:52:24,596] DEBUG    PluginManager Loading plugin: MergerSite (builtin)
+[2022-04-05 23:52:24,598] DEBUG    PluginManager New plugin registered to: ContentDb
+[2022-04-05 23:52:24,599] DEBUG    PluginManager New plugin registered to: ContentManager
+[2022-04-05 23:52:24,599] DEBUG    PluginManager New plugin registered to: WorkerManager
+[2022-04-05 23:52:24,599] DEBUG    PluginManager New plugin registered to: UiRequest
+[2022-04-05 23:52:24,599] DEBUG    PluginManager New plugin registered to: FileRequest
+[2022-04-05 23:52:24,599] DEBUG    PluginManager New plugin registered to: Site
+[2022-04-05 23:52:24,599] DEBUG    PluginManager New plugin registered to: ConfigPlugin
+[2022-04-05 23:52:24,599] DEBUG    PluginManager New plugin registered to: UiWebsocket
+[2022-04-05 23:52:24,599] DEBUG    PluginManager New plugin registered to: UiWebsocket
+[2022-04-05 23:52:24,599] DEBUG    PluginManager New plugin registered to: UiRequest
+[2022-04-05 23:52:24,599] DEBUG    PluginManager New plugin registered to: SiteStorage
+[2022-04-05 23:52:24,599] DEBUG    PluginManager New plugin registered to: Site
+[2022-04-05 23:52:24,599] DEBUG    PluginManager New plugin registered to: SiteManager
+[2022-04-05 23:52:24,600] DEBUG    PluginManager Loading plugin: Newsfeed (builtin)
+[2022-04-05 23:52:24,601] DEBUG    PluginManager New plugin registered to: UiWebsocket
+[2022-04-05 23:52:24,602] DEBUG    PluginManager New plugin registered to: User
+[2022-04-05 23:52:24,602] DEBUG    PluginManager Loading plugin: OptionalManager (builtin)
+[2022-04-05 23:52:24,602] DEBUG    PluginManager Loading plugin: PeerDb (builtin)
+[2022-04-05 23:52:24,603] DEBUG    PluginManager New plugin registered to: ContentDb
+[2022-04-05 23:52:24,603] DEBUG    PluginManager Loading plugin: Sidebar (builtin)
+[2022-04-05 23:52:24,605] DEBUG    PluginManager New plugin registered to: UiRequest
+[2022-04-05 23:52:24,605] DEBUG    PluginManager New plugin registered to: UiWebsocket
+[2022-04-05 23:52:24,606] DEBUG    PluginManager New plugin registered to: UiWebsocket
+[2022-04-05 23:52:24,606] DEBUG    PluginManager Loading plugin: Stats (builtin)
+[2022-04-05 23:52:24,607] DEBUG    PluginManager New plugin registered to: UiRequest
+[2022-04-05 23:52:24,608] DEBUG    PluginManager Loading plugin: TranslateSite (builtin)
+[2022-04-05 23:52:24,609] DEBUG    PluginManager New plugin registered to: UiRequest
+[2022-04-05 23:52:24,609] DEBUG    PluginManager Loading plugin: Trayicon (builtin)
+[2022-04-05 23:52:24,610] DEBUG    PluginManager Loading plugin: UiConfig (builtin)
+[2022-04-05 23:52:24,611] DEBUG    PluginManager New plugin registered to: UiRequest
+[2022-04-05 23:52:24,611] DEBUG    PluginManager New plugin registered to: UiWebsocket
+[2022-04-05 23:52:24,611] DEBUG    PluginManager Loading plugin: UiPluginManager (builtin)
+[2022-04-05 23:52:24,612] DEBUG    PluginManager New plugin registered to: UiRequest
+[2022-04-05 23:52:24,612] DEBUG    PluginManager New plugin registered to: UiWebsocket
+[2022-04-05 23:52:24,612] DEBUG    PluginManager Loading plugin: Zeroname (builtin)
+[2022-04-05 23:52:24,613] DEBUG    PluginManager New plugin registered to: UiRequest
+[2022-04-05 23:52:24,613] DEBUG    PluginManager New plugin registered to: ConfigPlugin
+[2022-04-05 23:52:24,613] DEBUG    PluginManager New plugin registered to: SiteManager
+[2022-04-05 23:52:24,613] DEBUG    PluginManager Plugins loaded in 0.277s
+[2022-04-05 23:52:24,615] DEBUG    PluginManager New class accepts plugins: Peer (Loaded plugins: [<class 'Bigfile.BigfilePlugin.PeerPlugin'>, <class 'Peer.Peer.Peer'>])
+[2022-04-05 23:52:24,616] DEBUG    PluginManager New class accepts plugins: SiteAnnouncer (Loaded plugins: [<class 'AnnounceZero.AnnounceZeroPlugin.SiteAnnouncerPlugin'>, <class 'AnnounceShare.AnnounceSharePlugin.SiteAnnouncerPlugin'>, <class 'AnnounceLocal.AnnounceLocalPlugin.SiteAnnouncerPlugin'>, <class 'AnnounceBitTorrent.AnnounceBitTorrentPlugin.SiteAnnouncerPlugin'>, <class 'Site.SiteAnnouncer.SiteAnnouncer'>])
+[2022-04-05 23:52:24,634] DEBUG    PluginManager New class accepts plugins: ContentDb (Loaded plugins: [<class 'PeerDb.PeerDbPlugin.ContentDbPlugin'>, <class 'OptionalManager.ContentDbPlugin.ContentDbPlugin'>, <class 'Content.ContentDb.ContentDb'>])
+[2022-04-05 23:52:24,649] DEBUG    Db:ContentDb Connected to /home/choi/Zeronet/data/content.db in 0.015s (opened: 2, sqlite version: 2.6.0)...
+[2022-04-05 23:52:24,649] DEBUG    Db:ContentDb Db check done in 0.000s, changed tables: []
+[2022-04-05 23:52:24,649] DEBUG    Db:ContentDb Checking foreign keys...
+[2022-04-05 23:52:24,660] DEBUG    PluginManager New class accepts plugins: ContentManager (Loaded plugins: [<class 'OptionalManager.OptionalManagerPlugin.ContentManagerPlugin'>, <class 'Bigfile.BigfilePlugin.ContentManagerPlugin'>, <class 'Content.ContentManager.ContentManager'>])
+[2022-04-05 23:52:24,661] DEBUG    PluginManager New class accepts plugins: ConfigPlugin (Loaded plugins: [<class 'Zeroname.UiRequestPlugin.ConfigPlugin'>, <class 'OptionalManager.OptionalManagerPlugin.ConfigPlugin'>, <class 'Bigfile.BigfilePlugin.ConfigPlugin'>, <class 'AnnounceShare.AnnounceSharePlugin.ConfigPlugin'>, <class 'AnnounceLocal.AnnounceLocalPlugin.ConfigPlugin'>, <class 'Config.Config.loadPlugins.<locals>.ConfigPlugin'>])
+[2022-04-05 23:52:24,662] DEBUG    - Config: Config(action='main', autodownload_bigfile_size_limit=10, batch=False, bigfile_size_limit=False, bind=None, bit_resolver='1Name2NXVi1RDPDgf5617UoW7xA6YrhM9F', broadcast_port=1544, coffeescript_compiler=None, config_file='/home/choi/Zeronet/zeronet.conf', connected_limit=8, console_log_level='default', data_dir='/home/choi/Zeronet/data', db_mode='speed', debug=False, debug_socket=False, disable_db=False, disable_encryption=False, disable_sslcompression=True, disable_udp=False, dist_type='bundle_linux64', download_optional='manual', end=True, file_size_limit=10, fileserver_ip='*', fileserver_ip_type='ipv4', fileserver_port=28537, fileserver_port_range='10000-40000', fix_float_decimals=False, force_encryption=False, global_connected_limit=512, homepage='1HeLLo4uzjaLetFx6NH3PMwFP3qbRbTf3D', ip_external=None, ip_local=['127.0.0.1', '::1'], keep_ssl_cert=False, language='en', log_dir='/home/choi/Zeronet/log', log_level='DEBUG', log_rotate='daily', log_rotate_backup_count=5, max_files_opened=2048, merge_media=False, msgpack_purepython=False, offline=False, open_browser='default_browser', optional_limit='10%', optional_limit_exclude_minsize=20, proxy=None, silent=False, size_limit=10, stack_size=None, stream_downloads=False, tor='enable', tor_controller='127.0.0.1:9051', tor_hs_limit=10, tor_hs_port=15441, tor_password=None, tor_proxy='127.0.0.1:9050', tor_use_bridges=False, trackers=['zero://boot3rdez4rzn36x.onion:15441', 'zero://zero.booth.moe#f36ca555bee6ba216b14d10f38c16f7769ff064e0e37d887603548cc2e64191d:443', 'udp://tracker.coppersurfer.tk:6969', 'udp://amigacity.xyz:6969', 'udp://104.238.198.186:8000', 'http://tracker01.loveapp.com:6789/announce', 'http://open.acgnxtracker.com:80/announce', 'http://open.trackerlist.xyz:80/announce', 'zero://2602:ffc5::c5b2:5360:26312'], trackers_file=None, trackers_proxy='disable', ui_host=None, ui_ip='127.0.0.1', ui_port=43110, ui_restrict=False, ui_trans_proxy=False, updatesite='1uPDaT3uSyWAPdCv1WkMb5hBQjWSNNACf', use_libsecp256k1=True, use_openssl=True, use_tempfiles=False, verbose=False, workers=5, working_shared_trackers_limit=5)
+[2022-04-05 23:52:24,663] INFO     - Version: 0.7.1 r4206, Python 3.7.3 (default, Mar 27 2019, 22:11:17) 
+[GCC 7.3.0], Gevent: 1.4.0
+[2022-04-05 23:52:24,667] DEBUG    PluginManager New class accepts plugins: FileRequest (Loaded plugins: [<class 'OptionalManager.OptionalManagerPlugin.FileRequestPlugin'>, <class 'Bigfile.BigfilePlugin.FileRequestPlugin'>, <class 'AnnounceShare.AnnounceSharePlugin.FileRequestPlugin'>, <class 'File.FileRequest.FileRequest'>])
+[2022-04-05 23:52:24,668] DEBUG    PluginManager New class accepts plugins: SiteManager (Loaded plugins: [<class 'Zeroname.SiteManagerPlugin.SiteManagerPlugin'>, <class 'MergerSite.MergerSitePlugin.SiteManagerPlugin'>, <class 'ContentFilter.ContentFilterPlugin.SiteManagerPlugin'>, <class 'Chart.ChartPlugin.SiteManagerPlugin'>, <class 'Site.SiteManager.SiteManager'>])
+[2022-04-05 23:52:24,668] DEBUG    SiteManager SiteManager created.
+[2022-04-05 23:52:24,671] DEBUG    CryptConnectionManager Version: OpenSSL 1.1.1c  28 May 2019
+[2022-04-05 23:52:24,672] DEBUG    PluginManager New class accepts plugins: FileServer (Loaded plugins: [<class 'AnnounceShare.AnnounceSharePlugin.FileServerPlugin'>, <class 'AnnounceLocal.AnnounceLocalPlugin.FileServerPlugin'>, <class 'File.FileServer.FileServer'>])
+[2022-04-05 23:52:24,693] DEBUG    PluginManager New class accepts plugins: User (Loaded plugins: [<class 'Newsfeed.NewsfeedPlugin.UserPlugin'>, <class 'CryptMessage.CryptMessagePlugin.UserPlugin'>, <class 'User.User.User'>])
+[2022-04-05 23:52:24,695] DEBUG    PluginManager New class accepts plugins: UiWebsocket (Loaded plugins: [<class 'UiPluginManager.UiPluginManagerPlugin.UiWebsocketPlugin'>, <class 'UiConfig.UiConfigPlugin.UiWebsocketPlugin'>, <class 'Sidebar.ConsolePlugin.UiWebsocketPlugin'>, <class 'Sidebar.SidebarPlugin.UiWebsocketPlugin'>, <class 'Newsfeed.NewsfeedPlugin.UiWebsocketPlugin'>, <class 'MergerSite.MergerSitePlugin.UiWebsocketPlugin'>, <class 'OptionalManager.UiWebsocketPlugin.UiWebsocketPlugin'>, <class 'CryptMessage.CryptMessagePlugin.UiWebsocketPlugin'>, <class 'Cors.CorsPlugin.UiWebsocketPlugin'>, <class 'ContentFilter.ContentFilterPlugin.UiWebsocketPlugin'>, <class 'Chart.ChartPlugin.UiWebsocketPlugin'>, <class 'Bigfile.BigfilePlugin.UiWebsocketPlugin'>, <class 'Ui.UiWebsocket.UiWebsocket'>])
+[2022-04-05 23:52:24,695] DEBUG    PluginManager New class accepts plugins: UiRequest (Loaded plugins: [<class 'Zeroname.UiRequestPlugin.UiRequestPlugin'>, <class 'UiPluginManager.UiPluginManagerPlugin.UiRequestPlugin'>, <class 'UiConfig.UiConfigPlugin.UiRequestPlugin'>, <class 'TranslateSite.TranslateSitePlugin.UiRequestPlugin'>, <class 'Stats.StatsPlugin.UiRequestPlugin'>, <class 'Sidebar.SidebarPlugin.UiRequestPlugin'>, <class 'MergerSite.MergerSitePlugin.UiRequestPlugin'>, <class 'OptionalManager.OptionalManagerPlugin.UiRequestPlugin'>, <class 'FilePack.FilePackPlugin.UiRequestPlugin'>, <class 'Cors.CorsPlugin.UiRequestPlugin'>, <class 'ContentFilter.ContentFilterPlugin.UiRequestPlugin'>, <class 'Bigfile.BigfilePlugin.UiRequestPlugin'>, <class 'Ui.UiRequest.UiRequest'>])
+[2022-04-05 23:52:24,695] INFO     - Creating FileServer....
+[2022-04-05 23:52:24,705] DEBUG    - Gevent block checker started
+[2022-04-05 23:52:24,705] WARNING  FileServer IPv6 not supported: [Errno 101] Network is unreachable
+[2022-04-05 23:52:24,706] DEBUG    ConnServer Supported IP types: ['ipv4']
+[2022-04-05 23:52:24,706] INFO     - Creating UiServer....
+[2022-04-05 23:52:24,706] DEBUG    SiteManager Sites not loaded yet...
+[2022-04-05 23:52:24,706] DEBUG    SiteManager Loading sites...
+[2022-04-05 23:52:24,709] DEBUG    PluginManager New class accepts plugins: WorkerManager (Loaded plugins: [<class 'OptionalManager.OptionalManagerPlugin.WorkerManagerPlugin'>, <class 'Bigfile.BigfilePlugin.WorkerManagerPlugin'>, <class 'Worker.WorkerManager.WorkerManager'>])
+[2022-04-05 23:52:24,710] DEBUG    PluginManager New class accepts plugins: SiteStorage (Loaded plugins: [<class 'MergerSite.MergerSitePlugin.SiteStoragePlugin'>, <class 'FilePack.FilePackPlugin.SiteStoragePlugin'>, <class 'ContentFilter.ContentFilterPlugin.SiteStoragePlugin'>, <class 'Bigfile.BigfilePlugin.SiteStoragePlugin'>, <class 'Site.SiteStorage.SiteStorage'>])
+[2022-04-05 23:52:24,710] DEBUG    PluginManager New class accepts plugins: Site (Loaded plugins: [<class 'MergerSite.MergerSitePlugin.SitePlugin'>, <class 'OptionalManager.OptionalManagerPlugin.SitePlugin'>, <class 'Bigfile.BigfilePlugin.SitePlugin'>, <class 'Site.Site.Site'>])
+[2022-04-05 23:52:24,711] DEBUG    Site:16FBB4..ddM8 ContentDb init: 0.000s, found files: 1, sites: 2
+[2022-04-05 23:52:24,712] DEBUG    SiteManager Loaded site 16FBB4c9D1gNVbFHEtcCmF9vipVaEXddM8 in 0.001s
+[2022-04-05 23:52:24,712] DEBUG    Site:1HeLLo..Tf3D ContentDb init: 0.000s, found files: 1, sites: 2
+[2022-04-05 23:52:24,713] DEBUG    SiteManager Loaded site 1HeLLo4uzjaLetFx6NH3PMwFP3qbRbTf3D in 0.001s
+[2022-04-05 23:52:24,713] DEBUG    SiteManager SiteManager added 2 sites
+[2022-04-05 23:52:24,713] DEBUG    ContentFilterStorage Loaded 0 mutes, 0 blocked sites from 0 includes in 0.000s
+[2022-04-05 23:52:24,713] DEBUG    SiteManager Updated merger sites in 0.000s
+[2022-04-05 23:52:24,714] DEBUG    SiteManager Added new site: 1Name2NXVi1RDPDgf5617UoW7xA6YrhM9F
+[2022-04-05 23:52:24,714] DEBUG    Site:1Name2..hM9F ContentDb init: 0.000s, found files: 0, sites: 3
+[2022-04-05 23:52:24,714] DEBUG    Site:1Name2..hM9F ContentDb not initialized, load files from filesystem
+[2022-04-05 23:52:24,714] DEBUG    Site:1Name2..hM9F Content.json not exist: /home/choi/Zeronet/data/1Name2NXVi1RDPDgf5617UoW7xA6YrhM9F/content.json
+[2022-04-05 23:52:24,714] DEBUG    Site:1Name2..hM9F New auth key: bf7cc2697d7dd87208397da05167da1ceb71303c742f68d38b0811bea5dd3f71
+[2022-04-05 23:52:24,714] DEBUG    Site:1Name2..hM9F New wrapper key: 652963a0521a4104b45df5da2622bb49b8fe8a6ba476349dce69e9f5d32925bf
+[2022-04-05 23:52:24,714] DEBUG    Site:1Name2..hM9F New ajax key: 0e6058c3f2dd309d4c8bf4c5ce2f4fec1c5d1b89e861b3d5119c5e68564ec6d7
+[2022-04-05 23:52:24,714] INFO     - Removing old SSL certs...
+[2022-04-05 23:52:24,714] INFO     - Starting servers....
+[2022-04-05 23:52:24,716] DEBUG    SiteManager Saved sites in 0.00s (generate: 0.00s, write: 0.00s)
+[2022-04-05 23:52:24,716] DEBUG    SiteManager Updated merger sites in 0.000s
+[2022-04-05 23:52:24,716] DEBUG    Site:1Name2..hM9F Start downloading, bad_files: {}, check_size: True, blind_includes: True
+[2022-04-05 23:52:24,716] DEBUG    Site:1Name2..hM9F Need content.json first
+[2022-04-05 23:52:24,716] INFO     Ui.UiServer --------------------------------------
+[2022-04-05 23:52:24,716] INFO     Ui.UiServer Web interface: http://127.0.0.1:43110/
+[2022-04-05 23:52:24,716] INFO     Ui.UiServer --------------------------------------
+[2022-04-05 23:52:24,716] INFO     - Opening browser: default_browser...
+[2022-04-05 23:52:24,790] DEBUG    - Current RLIMIT_NOFILE: 1024 (max: 1048576), changing to 2048...
+[2022-04-05 23:52:24,790] DEBUG    CryptConnectionManager Generating RSA CAcert and CAkey PEM files...
+[2022-04-05 23:52:24,790] DEBUG    CryptConnectionManager Running: "../runtime/bin/openssl" req -new -newkey rsa:2048 -days 3650 -nodes -x509 -config "src/lib/openssl/openssl.cnf" -subj "/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA" -keyout "/home/choi/Zeronet/data/cakey-rsa.pem" -out "/home/choi/Zeronet/data/cacert-rsa.pem" -batch
+[2022-04-05 23:52:24,819] DEBUG    CryptConnectionManager Result: Generating a RSA private key
+.....+++++
+.........+++++
+writing new private key to '/home/choi/Zeronet/data/cakey-rsa.pem'
+-----
+[2022-04-05 23:52:24,819] DEBUG    CryptConnectionManager Generating certificate key and signing request...
+[2022-04-05 23:52:24,894] DEBUG    CryptConnectionManager Running: "../runtime/bin/openssl" req -new -newkey rsa:2048 -keyout "/home/choi/Zeronet/data/key-rsa.pem" -out "/home/choi/Zeronet/data/cert-rsa.csr" -subj "/CN=microsoft.com" -sha256 -nodes -batch -config "src/lib/openssl/openssl.cnf"
+Generating a RSA private key
+.............................+++++
+.................................+++++
+writing new private key to '/home/choi/Zeronet/data/key-rsa.pem'
+-----
+[2022-04-05 23:52:24,895] DEBUG    CryptConnectionManager Generating RSA cert...
+[2022-04-05 23:52:24,900] DEBUG    CryptConnectionManager Running: "../runtime/bin/openssl" x509 -req -in "/home/choi/Zeronet/data/cert-rsa.csr" -CA "/home/choi/Zeronet/data/cacert-rsa.pem" -CAkey "/home/choi/Zeronet/data/cakey-rsa.pem" -set_serial 01 -out "/home/choi/Zeronet/data/cert-rsa.pem" -days 730 -sha256 -extensions x509_ext -extfile "src/lib/openssl/openssl.cnf"
+Signature ok
+subject=CN = microsoft.com
+Getting CA Private Key
+[2022-04-05 23:52:24,903] DEBUG    TorManager Starting (Tor: enable)
+[2022-04-05 23:52:24,903] DEBUG    TorManager Connecting to Tor Controller 127.0.0.1:9051
+[2022-04-05 23:52:24,904] DEBUG    BroadcastServer Started on port 1544
+[2022-04-05 23:52:24,904] DEBUG    BroadcastServer Sending discover request (force: True)
+[2022-04-05 23:52:24,904] DEBUG    Site:1Name2..hM9F Force reannounce in mode start
+[2022-04-05 23:52:24,905] DEBUG    BroadcastServer Sending discover request (force: False)
+[2022-04-05 23:52:24,906] DEBUG    TrackerStorage Trackers discovered from 0/0 peers in 0.000s
+[2022-04-05 23:52:24,906] DEBUG    ConnServer Conn# 1 boot3rdez4rzn36x.onion [?] > Connecting... (site: None)
+[2022-04-05 23:52:24,907] DEBUG    TorManager Creating new Tor socket to boot3rdez4rzn36x.onion:15441
+[2022-04-05 23:52:24,907] DEBUG    TorManager Waiting for startup...
+[2022-04-05 23:52:24,907] DEBUG    ConnServer Conn# 2 zero.booth.moe [?] > Connecting... (site: None)
+[2022-04-05 23:52:24,911] DEBUG    ConnServer Conn# 3 145.239.95.38 [?] > Connecting... (site: None)
+[2022-04-05 23:52:24,912] DEBUG    ConnServer Conn# 4 149.248.37.249 [?] > Connecting... (site: None)
+[2022-04-05 23:52:24,912] DEBUG    ConnServer Conn# 5 159.65.50.3  [?] > Connecting... (site: None)
+[2022-04-05 23:52:24,912] DEBUG    ConnServer Conn# 6 188.116.183.41 [?] > Connecting... (site: None)
+[2022-04-05 23:52:24,912] DEBUG    ConnServer Conn# 7 23.184.48.134 [?] > Connecting... (site: None)
+[2022-04-05 23:52:24,913] DEBUG    ConnServer Conn# 8 45.77.23.92  [?] > Connecting... (site: None)
+[2022-04-05 23:52:24,914] DEBUG    ConnServer Conn# 9 95.110.227.231 [?] > Connecting... (site: None)
+[2022-04-05 23:52:24,917] WARNING  TorManager Tor controller connect error: ConnectionRefusedError: [Errno 111] Connection refused in TorManager.py line 148 > _socket3.py line 335
+[2022-04-05 23:52:24,917] INFO     TorManager Disabling Tor, because error while accessing Tor proxy at port 127.0.0.1:9050: No connection
+[2022-04-05 23:52:24,917] DEBUG    ConnServer Binding to: 0.0.0.0:28537, (msgpack: 0.6.1), supported crypt: ['tls-rsa']
+[2022-04-05 23:52:24,918] DEBUG    ConnServer Checking sites...
+[2022-04-05 23:52:24,932] DEBUG    BroadcastServer Broadcast using ips ['192.168.201.141'] on port 1544: discoverRequest
+[2022-04-05 23:52:24,932] DEBUG    BroadcastServer Got from ('192.168.201.141', 35713): discoverRequest
+[2022-04-05 23:52:24,933] DEBUG    BroadcastServer Broadcast using ips ['192.168.201.141'] on port 1544: discoverRequest
+[2022-04-05 23:52:24,933] DEBUG    BroadcastServer Got from ('192.168.201.141', 59553): discoverRequest
+[2022-04-05 23:52:25,212] DEBUG    Site:16FBB4..ddM8 2 peers (0 with hashfield) loaded in 0.000s
+[2022-04-05 23:52:25,213] DEBUG    Site:1HeLLo..Tf3D 71 peers (0 with hashfield) loaded in 0.000s
+[2022-04-05 23:52:25,215] DEBUG    Site:1Name2..hM9F 0 peers (0 with hashfield) loaded in 0.000s
+[2022-04-05 23:52:25,250] DEBUG    ConnServer Conn# 8 45.77.23.92  [v2] > Changing unpacker to bin type (unprocessed bytes: 0)
+[2022-04-05 23:52:25,334] DEBUG    WorkerManager:1Name2..hM9F Starting workers (More peers found), tasks: 1, peers: 0, workers: 0
+[2022-04-05 23:52:25,334] DEBUG    Site:1Name2..hM9F Recent peers 5 of 5 (need: 10)
+[2022-04-05 23:52:25,334] DEBUG    WorkerManager:1Name2..hM9F Added worker: 185.97.32.39:35713, workers: 1/5
+[2022-04-05 23:52:25,334] DEBUG    WorkerManager:1Name2..hM9F Added worker: tmmaspiyirh6dbz2.onion:26552, workers: 2/5
+[2022-04-05 23:52:25,334] DEBUG    WorkerManager:1Name2..hM9F Added worker: bdgwfuapehsvzfzz.onion:15441, workers: 3/5
+[2022-04-05 23:52:25,334] DEBUG    WorkerManager:1Name2..hM9F Added worker: kcc56ipfwpy4amy6.onion:22420, workers: 4/5
+[2022-04-05 23:52:25,334] DEBUG    WorkerManager:1Name2..hM9F Added worker: 209.59.144.175:15441, workers: 5/5
+[2022-04-05 23:52:25,334] DEBUG    Site:1Name2..hM9F Tracker announce result: zero://45.77.23.92:15555 (sites: 1, new peers: 5, add: []) in 0.421s
+[2022-04-05 23:52:25,334] DEBUG    ConnServer Conn#10 185.97.32.39 [?] > Connecting... (site: Site 1Name2..hM9F)
+[2022-04-05 23:52:25,420] DEBUG    ConnServer Conn# 4 149.248.37.249 [v2] > Changing unpacker to bin type (unprocessed bytes: 0)
+[2022-04-05 23:52:25,546] DEBUG    Site:1Name2..hM9F Tracker announce result: zero://149.248.37.249:23141 (sites: 1, new peers: 4, add: []) in 0.634s
+[2022-04-05 23:52:25,712] DEBUG    Db:ContentDb Loaded 0 optional files: 0.00MB, downloaded: 0.00MB in 0.000s
+[2022-04-05 23:52:25,870] WARNING  PeerPortchecker checkPortchecker check error: HTTPError: HTTP Error 403: Forbidden in PeerPortchecker.py line 49 > PeerPortchecker.py line 89 > request.py line 222 > request.py line 531 > request.py line 641 > request.py line 569 > request.py line 503 > request.py line 649 in 0.951s
+[2022-04-05 23:52:25,965] DEBUG    ConnServer Conn# 9 95.110.227.231 [v2] > Changing unpacker to bin type (unprocessed bytes: 0)
+[2022-04-05 23:52:25,970] DEBUG    ConnServer Conn# 7 23.184.48.134 [v2] > Changing unpacker to bin type (unprocessed bytes: 0)
+[2022-04-05 23:52:25,987] DEBUG    ConnServer Conn# 5 159.65.50.3  [v2] > Changing unpacker to bin type (unprocessed bytes: 0)
+[2022-04-05 23:52:26,093] DEBUG    ConnServer Conn# 3 145.239.95.38 [v2] > Changing unpacker to bin type (unprocessed bytes: 0)
+[2022-04-05 23:52:26,225] DEBUG    Site:1Name2..hM9F Tracker announce result: zero://95.110.227.231:15441 (sites: 1, new peers: 4, add: []) in 1.311s
+[2022-04-05 23:52:26,230] DEBUG    Site:1Name2..hM9F Tracker announce result: zero://23.184.48.134:15441 (sites: 1, new peers: 3, add: []) in 1.318s
+[2022-04-05 23:52:26,245] DEBUG    ConnServer Conn#11 tmmaspiyirh6dbz2.onion [?] > Connecting... (site: Site 1Name2..hM9F)
+[2022-04-05 23:52:26,248] DEBUG    ConnServer Conn#11 tmmaspiyirh6dbz2.onion [?] > Closing connection: tmmaspiyirh6dbz2.onion Connect error: Exception: Can't connect to onion addresses, no Tor controller present in ConnectionServer.py line 208 > Connection.py line 124, waiting_requests: 0, sites: 0, buff: 0...
+[2022-04-05 23:52:26,249] DEBUG    WorkerManager:1Name2..hM9F tmmaspiyirh6dbz2.onion:26552: Verify failed: content.json, error: Download failed, failed peers: 0, workers: 1
+[2022-04-05 23:52:26,250] DEBUG    ConnServer Conn#12 bdgwfuapehsvzfzz.onion [?] > Connecting... (site: Site 1Name2..hM9F)
+[2022-04-05 23:52:26,250] DEBUG    ConnServer Conn#12 bdgwfuapehsvzfzz.onion [?] > Closing connection: bdgwfuapehsvzfzz.onion Connect error: Exception: Can't connect to onion addresses, no Tor controller present in ConnectionServer.py line 208 > Connection.py line 124, waiting_requests: 0, sites: 0, buff: 0...
+[2022-04-05 23:52:26,250] DEBUG    WorkerManager:1Name2..hM9F bdgwfuapehsvzfzz.onion:15441: Verify failed: content.json, error: Download failed, failed peers: 1, workers: 1
+[2022-04-05 23:52:26,250] DEBUG    ConnServer Conn#13 kcc56ipfwpy4amy6.onion [?] > Connecting... (site: Site 1Name2..hM9F)
+[2022-04-05 23:52:26,250] DEBUG    ConnServer Conn#13 kcc56ipfwpy4amy6.onion [?] > Closing connection: kcc56ipfwpy4amy6.onion Connect error: Exception: Can't connect to onion addresses, no Tor controller present in ConnectionServer.py line 208 > Connection.py line 124, waiting_requests: 0, sites: 0, buff: 0...
+[2022-04-05 23:52:26,250] DEBUG    WorkerManager:1Name2..hM9F kcc56ipfwpy4amy6.onion:22420: Verify failed: content.json, error: Download failed, failed peers: 2, workers: 1
+[2022-04-05 23:52:26,250] DEBUG    ConnServer Conn#14 209.59.144.175 [?] > Connecting... (site: Site 1Name2..hM9F)
+[2022-04-05 23:52:26,255] DEBUG    Site:1Name2..hM9F Tracker announce result: zero://159.65.50.3:26117 (sites: 1, new peers: 5, add: []) in 1.342s
+[2022-04-05 23:52:26,387] DEBUG    Site:1Name2..hM9F Tracker announce result: zero://145.239.95.38:15441 (sites: 1, new peers: 4, add: []) in 1.476s
+[2022-04-05 23:52:26,533] DEBUG    ConnServer Conn#10 185.97.32.39 [v2] > Changing unpacker to bin type (unprocessed bytes: 0)
+[2022-04-05 23:52:26,833] DEBUG    WorkerManager:1Name2..hM9F 185.97.32.39:35713: Verify correct: content.json
+[2022-04-05 23:52:26,833] DEBUG    SiteManager Updated merger sites in 0.000s
+[2022-04-05 23:52:26,833] DEBUG    RateLimit Added to queue (2.88s left): Save sites.json 
+[2022-04-05 23:52:26,834] DEBUG    Site:1Name2..hM9F content.json loadContent same json file, skipping
+[2022-04-05 23:52:26,834] DEBUG    RateLimit Added to queue (2.88s left): Save sites.json 
+[2022-04-05 23:52:26,834] DEBUG    Site:1Name2..hM9F Recent peers 25 of 29 (need: 25)
+[2022-04-05 23:52:27,010] DEBUG    ConnServer Conn#14 209.59.144.175 [v2] > Changing unpacker to bin type (unprocessed bytes: 0)
+[2022-04-05 23:52:27,198] DEBUG    ConnServer Conn#15 176.223.142.3 [?] > Connecting... (site: Site 1Name2..hM9F)
+[2022-04-05 23:52:27,199] DEBUG    ConnServer Conn#16 52.202.215.126 [?] > Incoming connection...
+[2022-04-05 23:52:27,199] DEBUG    ConnServer Conn#16 52.202.215.126 [v2] > Closing connection: MessageLoop ended (closed: False), waiting_requests: 0, sites: 0, buff: 0...
+[2022-04-05 23:52:27,211] INFO     PeerPortchecker Checking port 28537 (ipv4) using checkCanyouseeme result: {'ip': '222.233.128.3', 'opened': True} in 1.341s
+[2022-04-05 23:52:27,312] INFO     ConnServer Server port opened ipv4: True, ipv6: None
+[2022-04-05 23:52:27,313] DEBUG    Site:16FBB4..ddM8 content.json loadContent same json file, skipping
+[2022-04-05 23:52:27,313] DEBUG    Site:16FBB4..ddM8 Recent peers 0 of 0 (need: 25)
+[2022-04-05 23:52:27,314] DEBUG    ConnServer Conn#17 211.179.145.148 [?] > Connecting... (site: Site 16FBB4..ddM8)
+[2022-04-05 23:52:27,340] WARNING  Site:1Name2..hM9F Tracker http://open.trackerlist.xyz:80/announce announce failed: AnnounceError: No response after 2s in SiteAnnouncer.py line 198 > AnnounceBitTorrent/AnnounceBitTorrentPlugin.py line 132 in mode start
+[2022-04-05 23:52:27,340] DEBUG    ConnServer Conn#17 211.179.145.148 [v2] > Changing unpacker to bin type (unprocessed bytes: 0)
+[2022-04-05 23:52:27,351] DEBUG    Site:16FBB4..ddM8 Queried listModifications from: [<Peer:211.179.145.148>, <Peer:211.179.145.148>] in 0.038s since 1648518423
+[2022-04-05 23:52:27,406] DEBUG    ConnServer Conn# 8 45.77.23.92  [v2] > Closing connection: Removing, waiting_requests: 0, sites: 1, buff: 0...
+[2022-04-05 23:52:27,407] DEBUG    Site:16FBB4..ddM8 Tracker announce result: zero://45.77.23.92:15555 (sites: 3, new peers: 9, add: ['ipv4']) in 0.090s
+[2022-04-05 23:52:27,418] DEBUG    ConnServer Conn# 6 188.116.183.41 [v2] > Changing unpacker to bin type (unprocessed bytes: 0)
+[2022-04-05 23:52:27,432] DEBUG    WorkerManager:1Name2..hM9F 185.97.32.39:35713: Verify correct: index.html
+[2022-04-05 23:52:27,445] DEBUG    ConnServer Conn# 4 149.248.37.249 [v2] > Closing connection: Removing, waiting_requests: 0, sites: 1, buff: 0...
+[2022-04-05 23:52:27,446] DEBUG    Site:16FBB4..ddM8 Tracker announce result: zero://149.248.37.249:23141 (sites: 3, new peers: 13, add: ['ipv4']) in 0.130s
+[2022-04-05 23:52:27,451] DEBUG    ConnServer Conn#18 tmmaspiyirh6dbz2.onion [?] > Connecting... (site: Site 1Name2..hM9F)
+[2022-04-05 23:52:27,451] DEBUG    ConnServer Conn#18 tmmaspiyirh6dbz2.onion [?] > Closing connection: tmmaspiyirh6dbz2.onion Connect error: Exception: Can't connect to onion addresses, no Tor controller present in ConnectionServer.py line 208 > Connection.py line 124, waiting_requests: 0, sites: 0, buff: 0...
+[2022-04-05 23:52:27,451] DEBUG    WorkerManager:1Name2..hM9F tmmaspiyirh6dbz2.onion:26552: Verify failed: js/all.js, error: Download failed, failed peers: 0, workers: 0
+[2022-04-05 23:52:27,457] DEBUG    Site:16FBB4..ddM8 content.json loadContent same json file, skipping
+[2022-04-05 23:52:27,457] DEBUG    ConnServer Conn#19 bdgwfuapehsvzfzz.onion [?] > Connecting... (site: Site 1Name2..hM9F)
+[2022-04-05 23:52:27,457] DEBUG    ConnServer Conn#19 bdgwfuapehsvzfzz.onion [?] > Closing connection: bdgwfuapehsvzfzz.onion Connect error: Exception: Can't connect to onion addresses, no Tor controller present in ConnectionServer.py line 208 > Connection.py line 124, waiting_requests: 0, sites: 0, buff: 0...
+[2022-04-05 23:52:27,458] DEBUG    WorkerManager:1Name2..hM9F bdgwfuapehsvzfzz.onion:15441: Verify failed: js/all.js, error: Download failed, failed peers: 1, workers: 0
+[2022-04-05 23:52:27,458] DEBUG    ConnServer Conn#20 kcc56ipfwpy4amy6.onion [?] > Connecting... (site: Site 1Name2..hM9F)
+[2022-04-05 23:52:27,458] DEBUG    ConnServer Conn#20 kcc56ipfwpy4amy6.onion [?] > Closing connection: kcc56ipfwpy4amy6.onion Connect error: Exception: Can't connect to onion addresses, no Tor controller present in ConnectionServer.py line 208 > Connection.py line 124, waiting_requests: 0, sites: 0, buff: 0...
+[2022-04-05 23:52:27,458] DEBUG    WorkerManager:1Name2..hM9F kcc56ipfwpy4amy6.onion:22420: Verify failed: js/all.js, error: Download failed, failed peers: 2, workers: 0
+[2022-04-05 23:52:27,579] DEBUG    ConnServer Conn# 7 23.184.48.134 [v2] > Closing connection: Removing, waiting_requests: 0, sites: 1, buff: 0...
+[2022-04-05 23:52:27,579] DEBUG    Site:16FBB4..ddM8 Tracker announce result: zero://23.184.48.134:15441 (sites: 3, new peers: 5, add: ['ipv4']) in 0.262s
+[2022-04-05 23:52:27,582] DEBUG    ConnServer Conn# 9 95.110.227.231 [v2] > Closing connection: Removing, waiting_requests: 0, sites: 1, buff: 0...
+[2022-04-05 23:52:27,583] DEBUG    Site:16FBB4..ddM8 Tracker announce result: zero://95.110.227.231:15441 (sites: 3, new peers: 5, add: ['ipv4']) in 0.266s
+[2022-04-05 23:52:27,585] DEBUG    ConnServer Conn# 5 159.65.50.3  [v2] > Closing connection: Removing, waiting_requests: 0, sites: 1, buff: 0...
+[2022-04-05 23:52:27,586] DEBUG    Site:16FBB4..ddM8 Tracker announce result: zero://159.65.50.3:26117 (sites: 3, new peers: 10, add: ['ipv4']) in 0.269s
+[2022-04-05 23:52:27,611] DEBUG    ConnServer Conn# 3 145.239.95.38 [v2] > Closing connection: Removing, waiting_requests: 0, sites: 1, buff: 0...
+[2022-04-05 23:52:27,611] DEBUG    Site:16FBB4..ddM8 Tracker announce result: zero://145.239.95.38:15441 (sites: 3, new peers: 13, add: ['ipv4']) in 0.296s
+[2022-04-05 23:52:27,706] DEBUG    ConnServer Conn# 6 188.116.183.41 [v2] > Closing connection: Removing, waiting_requests: 1, sites: 2, buff: 0...
+[2022-04-05 23:52:27,707] DEBUG    Site:16FBB4..ddM8 Tracker announce result: zero://188.116.183.41:26552 (sites: 3, new peers: 7, add: ['ipv4']) in 0.391s
+[2022-04-05 23:52:27,779] WARNING  Site:16FBB4..ddM8 Tracker http://open.trackerlist.xyz:80/announce announce failed: AnnounceError: No response after 0s in SiteAnnouncer.py line 198 > AnnounceBitTorrent/AnnounceBitTorrentPlugin.py line 132 in mode startup
+[2022-04-05 23:52:28,066] DEBUG    WorkerManager:1Name2..hM9F 209.59.144.175:15441: Verify correct: js/all.js
+[2022-04-05 23:52:28,328] DEBUG    WorkerManager:1Name2..hM9F 185.97.32.39:35713: Verify correct: css/all.css
+[2022-04-05 23:52:28,363] DEBUG    ConnServer Conn#15 176.223.142.3 [v2] > Changing unpacker to bin type (unprocessed bytes: 0)
+[2022-04-05 23:52:28,642] DEBUG    WorkerManager:1Name2..hM9F 209.59.144.175:15441: Verify correct: data/names.json
+[2022-04-05 23:52:28,654] DEBUG    Site:1Name2..hM9F Peer:176.223.142.3 client has older version of content.json, publishing there...
+[2022-04-05 23:52:28,655] DEBUG    Site:1Name2..hM9F Queried listModifications from: [<Peer:185.97.32.39>, <Peer:209.59.144.175>, <Peer:209.59.144.175>, <Peer:185.97.32.39>, <Peer:176.223.142.3>] in 1.821s since 0
+[2022-04-05 23:52:28,708] DEBUG    ConnServer Conn#21 188.116.183.41 [?] > Connecting... (site: None)
+[2022-04-05 23:52:28,744] DEBUG    WorkerManager:1Name2..hM9F 209.59.144.175:15441: No task found, stopping (downloaded files: 2, failed: 0)
+[2022-04-05 23:52:28,744] DEBUG    WorkerManager:1Name2..hM9F Removed worker, workers: 4/5
+[2022-04-05 23:52:28,745] DEBUG    WorkerManager:1Name2..hM9F Check complete: No tasks
+[2022-04-05 23:52:28,754] DEBUG    WorkerManager:1Name2..hM9F tmmaspiyirh6dbz2.onion:26552: No task found, stopping (downloaded files: 0, failed: 2)
+[2022-04-05 23:52:28,754] DEBUG    WorkerManager:1Name2..hM9F Removed worker, workers: 3/5
+[2022-04-05 23:52:28,762] DEBUG    WorkerManager:1Name2..hM9F bdgwfuapehsvzfzz.onion:15441: No task found, stopping (downloaded files: 0, failed: 2)
+[2022-04-05 23:52:28,762] DEBUG    WorkerManager:1Name2..hM9F Removed worker, workers: 2/5
+[2022-04-05 23:52:28,764] DEBUG    WorkerManager:1Name2..hM9F kcc56ipfwpy4amy6.onion:22420: No task found, stopping (downloaded files: 0, failed: 2)
+[2022-04-05 23:52:28,764] DEBUG    WorkerManager:1Name2..hM9F Removed worker, workers: 1/5
+[2022-04-05 23:52:28,832] DEBUG    WorkerManager:1Name2..hM9F 185.97.32.39:35713: No task found, stopping (downloaded files: 3, failed: 0)
+[2022-04-05 23:52:28,832] DEBUG    WorkerManager:1Name2..hM9F Removed worker, workers: 0/5
+[2022-04-05 23:52:29,315] DEBUG    Site:1Name2..hM9F content.json loadContent same json file, skipping
+[2022-04-05 23:52:29,315] DEBUG    Site:1Name2..hM9F Recent peers 60 of 67 (need: 25)
+[2022-04-05 23:52:29,707] DEBUG    Db:ContentDb Commited in 0.002s (reason: Interval)
+[2022-04-05 23:52:29,715] DEBUG    RateLimit Calling: Save sites.json
+[2022-04-05 23:52:29,716] DEBUG    SiteManager Saved sites in 0.00s (generate: 0.00s, write: 0.00s)
+[2022-04-05 23:52:29,716] DEBUG    SiteManager Updated merger sites in 0.000s
+[2022-04-05 23:52:29,845] DEBUG    ConnServer Conn#21 188.116.183.41 [v2] > Changing unpacker to bin type (unprocessed bytes: 0)
+[2022-04-05 23:52:29,912] DEBUG    Site:1Name2..hM9F Queried listModifications from: [<Peer:209.59.144.175>, <Peer:176.223.142.3>, <Peer:185.97.32.39>, <Peer:209.59.144.175>, <Peer:185.97.32.39>] in 0.597s since 1646387650
+[2022-04-05 23:52:30,012] DEBUG    Site:1Name2..hM9F content.json loadContent same json file, skipping
+[2022-04-05 23:52:30,129] DEBUG    Site:1Name2..hM9F Tracker announce result: zero://188.116.183.41:26552 (sites: 1, new peers: 1, add: []) in 5.217s
+[2022-04-05 23:52:31,315] DEBUG    Site:1HeLLo..Tf3D content.json loadContent same json file, skipping
+[2022-04-05 23:52:31,316] DEBUG    Site:1HeLLo..Tf3D Recent peers 40 of 42 (need: 25)
+[2022-04-05 23:52:31,508] DEBUG    ConnServer Conn#22 40.91.195.219 [?] > Connecting... (site: Site 1HeLLo..Tf3D)
+[2022-04-05 23:52:32,403] DEBUG    ConnServer Conn#22 40.91.195.219 [v2] > Changing unpacker to bin type (unprocessed bytes: 0)
+[2022-04-05 23:52:32,627] DEBUG    Site:1HeLLo..Tf3D Queried listModifications from: [<Peer:211.179.145.148>, <Peer:209.59.144.175>, <Peer:188.116.183.41>, <Peer:185.97.32.39>, <Peer:40.91.195.219>] in 1.311s since 1604282775
+[2022-04-05 23:52:32,728] DEBUG    Site:1HeLLo..Tf3D content.json loadContent same json file, skipping
+[2022-04-05 23:52:33,315] DEBUG    ConnServer Checksites done in 8.397s
+[2022-04-05 23:52:33,514] INFO     Ui.UiServer Added 127.0.0.1:43110 as allowed host
+[2022-04-05 23:52:33,518] DEBUG    UserManager Added 1 users in 0.000s
+[2022-04-05 23:52:33,519] DEBUG    Ui.UiServer 127.0.0.1 - - [2022-04-05 23:52:33] "GET /1HeLLo4uzjaLetFx6NH3PMwFP3qbRbTf3D HTTP/1.1" 200 4912 0.005342
+[2022-04-05 23:52:33,757] DEBUG    Ui.UiServer 127.0.0.1 - - [2022-04-05 23:52:33] "GET /uimedia/img/logo-white.png HTTP/1.1" 200 1649 0.000981
+[2022-04-05 23:52:33,777] DEBUG    Ui.UiServer 127.0.0.1 - - [2022-04-05 23:52:33] "GET /uimedia/all.css?rev=4206 HTTP/1.1" 200 44917 0.001926
+[2022-04-05 23:52:33,803] WARNING  Site:1HeLLo..Tf3D Tracker http://open.trackerlist.xyz:80/announce announce failed: AnnounceError: No response after 2s in SiteAnnouncer.py line 198 > AnnounceBitTorrent/AnnounceBitTorrentPlugin.py line 132 in mode startup
+[2022-04-05 23:52:33,889] DEBUG    Ui.UiServer 127.0.0.1 - - [2022-04-05 23:52:33] "GET /1HeLLo4uzjaLetFx6NH3PMwFP3qbRbTf3D/?wrapper_nonce=59ccd6d0ecb3f17db5b349fa3fd2d73a85ce944092b2ec149e2868b4b1ea1cbf HTTP/1.1" 200 1650 0.002216
+[2022-04-05 23:52:33,898] DEBUG    Ui.UiServer 127.0.0.1 - - [2022-04-05 23:52:33] "GET /uimedia/all.js?rev=4206&lang=en HTTP/1.1" 200 214850 0.003029
+[2022-04-05 23:52:33,915] WARNING  Site:1Name2..hM9F Tracker udp://104.238.198.186:8000 announce failed: AnnounceError: Could not connect in SiteAnnouncer.py line 198 > AnnounceBitTorrent/AnnounceBitTorrentPlugin.py line 61 in mode start
+[2022-04-05 23:52:33,951] WARNING  Site:1Name2..hM9F Tracker udp://tracker.coppersurfer.tk:6969 announce failed: AnnounceError: Could not connect in SiteAnnouncer.py line 198 > AnnounceBitTorrent/AnnounceBitTorrentPlugin.py line 61 in mode start
+[2022-04-05 23:52:33,951] WARNING  Site:1Name2..hM9F Tracker udp://amigacity.xyz:6969 announce failed: AnnounceError: Could not connect in SiteAnnouncer.py line 198 > AnnounceBitTorrent/AnnounceBitTorrentPlugin.py line 61 in mode start
+[2022-04-05 23:52:34,108] DEBUG    Ui.UiServer 127.0.0.1 - - [2022-04-05 23:52:34] "GET /1HeLLo4uzjaLetFx6NH3PMwFP3qbRbTf3D/css/all.css?site_modified=1604369175 HTTP/1.1" 200 238123 0.004343
+[2022-04-05 23:52:34,113] DEBUG    Ui.UiServer 127.0.0.1 - - [2022-04-05 23:52:34] "GET /1HeLLo4uzjaLetFx6NH3PMwFP3qbRbTf3D/js/all.js?lang=en&site_modified=1604369175 HTTP/1.1" 200 301759 0.003252
+[2022-04-05 23:52:34,265] INFO     Site:1Name2..hM9F [FAILED] 176.223.142.3:23125: None
+[2022-04-05 23:52:34,272] DEBUG    Ui.UiServer 127.0.0.1 - - [2022-04-05 23:52:34] "GET /1HeLLo4uzjaLetFx6NH3PMwFP3qbRbTf3D/img/logo.svg HTTP/1.1" 200 1303 0.000723
+[2022-04-05 23:52:34,390] DEBUG    SiteManager Loading sites...
+[2022-04-05 23:52:34,390] DEBUG    ContentFilterStorage Loaded 0 mutes, 0 blocked sites from 0 includes in 0.000s
+[2022-04-05 23:52:34,391] DEBUG    SiteManager Updated merger sites in 0.000s
+[2022-04-05 23:52:35,696] DEBUG    Ui.UiServer 127.0.0.1 - - [2022-04-05 23:52:35] "GET /ZeroNet-Internal/Websocket?wrapper_key=5bcaaeb445383c83e92edbe2c6534151b3f96480021942c013519de02f9e4be7 HTTP/1.1" 101 129 1.582970
+[2022-04-05 23:52:35,751] DEBUG    Ui.UiServer 127.0.0.1 - - [2022-04-05 23:52:35] "GET /16FBB4c9D1gNVbFHEtcCmF9vipVaEXddM8/ HTTP/1.1" 200 4831 0.000786
+[2022-04-05 23:52:35,905] DEBUG    Ui.UiServer 127.0.0.1 - - [2022-04-05 23:52:35] "GET /16FBB4c9D1gNVbFHEtcCmF9vipVaEXddM8/?wrapper_nonce=3b2bb7dccbe2d6a9cfa8c0c5ec86a77bde871a6e0eae35ba1b3b0609d58836cb HTTP/1.1" 200 530 0.001751
+[2022-04-05 23:52:35,919] DEBUG    Ui.UiServer 127.0.0.1 - - [2022-04-05 23:52:35] "GET /uimedia/all.js?rev=4206&lang=en HTTP/1.1" 200 214850 0.000635
+[2022-04-05 23:52:36,318] WARNING  Site:16FBB4..ddM8 Tracker udp://tracker.coppersurfer.tk:6969 announce failed: AnnounceError: Could not connect in SiteAnnouncer.py line 198 > AnnounceBitTorrent/AnnounceBitTorrentPlugin.py line 61 in mode startup
+[2022-04-05 23:52:36,318] WARNING  Site:16FBB4..ddM8 Tracker udp://amigacity.xyz:6969 announce failed: AnnounceError: Could not connect in SiteAnnouncer.py line 198 > AnnounceBitTorrent/AnnounceBitTorrentPlugin.py line 61 in mode startup
+[2022-04-05 23:52:36,318] WARNING  Site:16FBB4..ddM8 Tracker udp://104.238.198.186:8000 announce failed: AnnounceError: Could not connect in SiteAnnouncer.py line 198 > AnnounceBitTorrent/AnnounceBitTorrentPlugin.py line 61 in mode startup
+[2022-04-05 23:52:38,136] DEBUG    Ui.UiServer 127.0.0.1 - - [2022-04-05 23:52:38] "GET /ZeroNet-Internal/Websocket?wrapper_key=e839c887c700b6d32c520e00bbf9e3d792c0754d1ae1996db57a947e8a751b5c HTTP/1.1" 101 129 2.118397
+[2022-04-05 23:52:39,905] DEBUG    ConnServer Conn# 2 zero.booth.moe [?] > Closing connection: [Cleanup] Connect timeout: 14.998s, waiting_requests: 0, sites: 0, buff: 0...
+[2022-04-05 23:52:39,906] DEBUG    ConnServer Conn#15 176.223.142.3 [v2] > Closing connection: [Cleanup] Command listModified timeout: 10.590s, waiting_requests: 1, sites: 1, buff: 0...
+[2022-04-05 23:52:39,908] WARNING  Site:16FBB4..ddM8 Tracker zero://zero.booth.moe#f36ca555bee6ba216b14d10f38c16f7769ff064e0e37d887603548cc2e64191d:443 announce failed: AnnounceError: Invalid response: None in SiteAnnouncer.py line 198 > AnnounceZero/AnnounceZeroPlugin.py line 102 in mode startup
+[2022-04-05 23:52:39,909] WARNING  Site:1Name2..hM9F Tracker zero://zero.booth.moe#f36ca555bee6ba216b14d10f38c16f7769ff064e0e37d887603548cc2e64191d:443 announce failed: AnnounceError: Invalid response: None in SiteAnnouncer.py line 198 > AnnounceZero/AnnounceZeroPlugin.py line 102 in mode start
+[2022-04-05 23:52:40,319] WARNING  Site:1HeLLo..Tf3D Tracker udp://104.238.198.186:8000 announce failed: AnnounceError: Could not connect in SiteAnnouncer.py line 198 > AnnounceBitTorrent/AnnounceBitTorrentPlugin.py line 61 in mode startup
+[2022-04-05 23:52:40,355] WARNING  Site:1HeLLo..Tf3D Tracker udp://tracker.coppersurfer.tk:6969 announce failed: AnnounceError: Could not connect in SiteAnnouncer.py line 198 > AnnounceBitTorrent/AnnounceBitTorrentPlugin.py line 61 in mode startup
+[2022-04-05 23:52:40,357] WARNING  Site:1HeLLo..Tf3D Tracker udp://amigacity.xyz:6969 announce failed: AnnounceError: Could not connect in SiteAnnouncer.py line 198 > AnnounceBitTorrent/AnnounceBitTorrentPlugin.py line 61 in mode startup
+[2022-04-05 23:52:44,928] DEBUG    Site:1Name2..hM9F Announced in mode start to 8/15 trackers in 20.023s, errors: ['zero://zero.booth.moe#f36ca555bee6ba216b14d10f38c16f7769ff064e0e37d887603548cc2e64191d:443', 'udp://tracker.coppersurfer.tk:6969', 'udp://amigacity.xyz:6969', 'udp://104.238.198.186:8000', 'http://open.trackerlist.xyz:80/announce'], slow: ['2.62s http://open.acgnxtracker.com:80/announce', '1.48s zero://145.239.95.38:15441', '1.34s zero://159.65.50.3:26117', '5.22s zero://188.116.183.41:26552', '1.32s zero://23.184.48.134:15441', '1.31s zero://95.110.227.231:15441']
+[2022-04-05 23:52:45,343] DEBUG    Site:1Name2..hM9F Pex result: from 2 peers got 7 new peers.
+[2022-04-05 23:52:46,026] WARNING  Site:1Name2..hM9F Tracker http://tracker01.loveapp.com:6789/announce announce failed: URLError: <urlopen error [Errno 111] Connection refused> in SiteAnnouncer.py line 198 > AnnounceBitTorrent/AnnounceBitTorrentPlugin.py line 126 > AnnounceBitTorrent/AnnounceBitTorrentPlugin.py line 91 > request.py line 222 > request.py line 525 > request.py line 543 > request.py line 503 > request.py line 1345 > request.py line 1319 in mode start
+[2022-04-05 23:52:47,325] DEBUG    Site:16FBB4..ddM8 Announced in mode startup to 8/14 trackers in 20.011s, errors: ['zero://zero.booth.moe#f36ca555bee6ba216b14d10f38c16f7769ff064e0e37d887603548cc2e64191d:443', 'udp://tracker.coppersurfer.tk:6969', 'udp://amigacity.xyz:6969', 'udp://104.238.198.186:8000', 'http://open.trackerlist.xyz:80/announce'], slow: []
+[2022-04-05 23:52:47,331] DEBUG    Site:16FBB4..ddM8 Pex result: from 1 peers got 0 new peers.
+[2022-04-05 23:52:48,415] WARNING  Site:16FBB4..ddM8 Tracker http://tracker01.loveapp.com:6789/announce announce failed: URLError: <urlopen error [Errno 111] Connection refused> in SiteAnnouncer.py line 198 > AnnounceBitTorrent/AnnounceBitTorrentPlugin.py line 126 > AnnounceBitTorrent/AnnounceBitTorrentPlugin.py line 91 > request.py line 222 > request.py line 525 > request.py line 543 > request.py line 503 > request.py line 1345 > request.py line 1319 in mode startup
+[2022-04-05 23:52:51,327] DEBUG    Site:1HeLLo..Tf3D Announced in mode startup to 1/14 trackers in 20.012s, errors: ['udp://tracker.coppersurfer.tk:6969', 'udp://amigacity.xyz:6969', 'udp://104.238.198.186:8000', 'http://open.trackerlist.xyz:80/announce'], slow: ['12.07s http://open.acgnxtracker.com:80/announce']
+[2022-04-05 23:52:51,780] DEBUG    Site:1HeLLo..Tf3D Pex result: from 2 peers got 2 new peers.
+[2022-04-05 23:52:52,372] WARNING  Site:1HeLLo..Tf3D Tracker http://tracker01.loveapp.com:6789/announce announce failed: URLError: <urlopen error [Errno 111] Connection refused> in SiteAnnouncer.py line 198 > AnnounceBitTorrent/AnnounceBitTorrentPlugin.py line 126 > AnnounceBitTorrent/AnnounceBitTorrentPlugin.py line 91 > request.py line 222 > request.py line 525 > request.py line 543 > request.py line 503 > request.py line 1345 > request.py line 1319 in mode startup
+[2022-04-05 23:52:54,907] DEBUG    ConnServer Conn# 1 boot3rdez4rzn36x.onion [?] > Closing connection: [Cleanup] Connect timeout: 30.001s, waiting_requests: 0, sites: 0, buff: 0...
+[2022-04-05 23:55:24,336] DEBUG    ChartCollector Global collectors done in 0.000s
+[2022-04-05 23:55:24,336] DEBUG    ChartCollector Global collectors inserted in 0.000s
+[2022-04-05 23:55:24,342] DEBUG    ChartCollector Site collections done in 0.006s
+[2022-04-05 23:55:24,343] DEBUG    ChartCollector Site collectors inserted in 0.000s
+[2022-04-05 23:55:24,845] DEBUG    Db:Chart Commited in 0.002s (reason: Interval)
+[2022-04-05 23:55:43,657] DEBUG    ConnServer Conn#22 40.91.195.219 [v2] > Closing connection: MessageLoop ended (closed: False), waiting_requests: 0, sites: 2, buff: 0...
+[2022-04-05 23:57:24,335] DEBUG    Db:ContentDb Optional size: 0.0MB/2690.3MB, Need delete: -2690.3MB
+[2022-04-05 23:57:24,928] DEBUG    ConnServer Running site cleanup, connections: 4, internet: True, protected peers: 0
+[2022-04-05 23:57:24,929] DEBUG    BroadcastServer Sending discover request (force: False)
+[2022-04-05 23:57:24,930] DEBUG    BroadcastServer Broadcast using ips ['192.168.201.141'] on port 1544: discoverRequest
+[2022-04-05 23:57:24,930] DEBUG    BroadcastServer Got from ('192.168.201.141', 32768): discoverRequest
+[2022-04-05 23:57:27,934] DEBUG    ConnServer Site announce tracker done in 3.006s, sleeping for 130.327s...
+[2022-04-05 23:57:27,937] DEBUG    Site:16FBB4..ddM8 Pex result: from 1 peers got 0 new peers.
+[2022-04-05 23:57:29,408] DEBUG    Site:1HeLLo..Tf3D Pex result: from 2 peers got 0 new peers.
+[2022-04-05 23:57:30,433] DEBUG    Site:1Name2..hM9F Pex result: from 2 peers got 5 new peers.
+[2022-04-05 23:57:33,969] WARNING  Site:16FBB4..ddM8 Tracker udp://amigacity.xyz:6969 announce failed: AnnounceError: Could not connect in SiteAnnouncer.py line 198 > AnnounceBitTorrent/AnnounceBitTorrentPlugin.py line 61 in mode update
+[2022-04-05 23:57:33,969] DEBUG    Site:16FBB4..ddM8 Tracker failed, skipping to next one...
+[2022-04-05 23:59:41,268] DEBUG    ConnServer Site announce tracker done in 3.004s, sleeping for 130.329s...
+[2022-04-05 23:59:47,266] WARNING  Site:16FBB4..ddM8 Tracker udp://104.238.198.186:8000 announce failed: AnnounceError: Could not connect in SiteAnnouncer.py line 198 > AnnounceBitTorrent/AnnounceBitTorrentPlugin.py line 61 in mode update
+[2022-04-05 23:59:47,266] DEBUG    Site:16FBB4..ddM8 Tracker failed, skipping to next one...
+[2022-04-06 00:00:10,912] DEBUG    ConnServer Conn#21 188.116.183.41 [v2] > Closing connection: MessageLoop ended (closed: False), waiting_requests: 0, sites: 2, buff: 0...
+[2022-04-06 00:00:24,344] DEBUG    ChartCollector Global collectors done in 0.000s
+[2022-04-06 00:00:24,344] DEBUG    ChartCollector Global collectors inserted in 0.000s
+[2022-04-06 00:00:39,362] DEBUG    ConnServer Conn#23 47.56.85.79  [?] > Incoming connection...
+[2022-04-06 00:00:39,447] DEBUG    ConnServer Conn#23 47.56.85.79  [v2] > Closing connection: MessageLoop ended (closed: False), waiting_requests: 0, sites: 1, buff: 0...
+[2022-04-06 00:01:54,600] DEBUG    ConnServer Site announce tracker done in 3.002s, sleeping for 130.331s...
+[2022-04-06 00:02:12,726] WARNING  Site:16FBB4..ddM8 Tracker http://tracker01.loveapp.com:6789/announce announce failed: URLError: <urlopen error [Errno 111] Connection refused> in SiteAnnouncer.py line 198 > AnnounceBitTorrent/AnnounceBitTorrentPlugin.py line 126 > AnnounceBitTorrent/AnnounceBitTorrentPlugin.py line 91 > request.py line 222 > request.py line 525 > request.py line 543 > request.py line 503 > request.py line 1345 > request.py line 1319 in mode update
+[2022-04-06 00:02:24,342] DEBUG    Db:Chart Archived 450 data from 1 weeks ago in 0.007s
+[2022-04-06 00:02:24,344] DEBUG    Db:ContentDb Optional size: 0.0MB/2690.3MB, Need delete: -2690.3MB
+[2022-04-06 00:02:24,443] DEBUG    Db:Chart Archived 0 data from 2 weeks ago in 0.001s
+[2022-04-06 00:02:24,550] DEBUG    Db:Chart Commited in 0.004s (reason: vacuum called)
+[2022-04-06 00:02:24,708] DEBUG    SiteManager Saved sites in 0.00s (generate: 0.00s, write: 0.00s)
+[2022-04-06 00:02:24,708] DEBUG    SiteManager Updated merger sites in 0.000s
+[2022-04-06 00:02:25,035] DEBUG    Db:Chart Commited in 0.000s (reason: Interval)
+[2022-04-06 00:02:33,204] DEBUG    ConnServer Conn#10 185.97.32.39 [v2] > Closing connection: MessageLoop ended (closed: False), waiting_requests: 0, sites: 2, buff: 0...
