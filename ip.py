@@ -125,3 +125,5 @@ for ip in ipbox:
 
 p.close()
 g.close()
+
+exec(open("packet.py").read())

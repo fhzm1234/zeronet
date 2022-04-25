@@ -28,11 +28,13 @@ def Traffic_Packet(packet):
                 pkt_size = packet[IP].len
                 src_ip = packet[IP].src
                 dst_ip = packet[IP].dst
+                src_port = packet[IP].sport
+                dst_port = packet[IP].dport
 
                 timestamp = packet.time
                 local_time = time.localtime(timestamp)
                 local_time = time.strftime('%Y-%m-%d %H:%M:%S', local_time)
-                print(f"{local_time} {proto_T} {layer_v} {src_ip} {dst_ip} {pkt_size}")
+                print(f"{local_time} {proto_T} {layer_v} {src_ip} {dst_ip} {src_port} {dst_port} {pkt_size}")
                 with open('traffic', 'r') as myfile:
                     data = myfile.read()
                     with open('traffic', 'w') as mywrite:
