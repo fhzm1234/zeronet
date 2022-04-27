@@ -39,7 +39,7 @@ def Traffic_Packet(packet):
                     data = myfile.read()
                     with open('traffic', 'w') as mywrite:
                         mywrite.write(data)
-                        mywrite.write(f"{local_time} {proto_T} {layer_v} {src_ip} {dst_ip} {pkt_size}\n")
+                        mywrite.write(f"{local_time} {proto_T} {layer_v} {src_ip} {dst_ip} {src_port} {dst_port} {pkt_size}\n")
 with open('peer', 'r') as ips:
     for line in ips:
     	ip = line.rstrip('\n')
