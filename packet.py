@@ -35,11 +35,9 @@ def Traffic_Packet(packet):
                 local_time = time.localtime(timestamp)
                 local_time = time.strftime('%Y-%m-%d %H:%M:%S', local_time)
                 print(f"{local_time} {proto_T} {layer_v} {src_ip} {dst_ip} {src_port} {dst_port} {pkt_size}")
-                with open('traffic', 'r') as myfile:
-                    data = myfile.read()
-                    with open('traffic', 'w') as mywrite:
-                        mywrite.write(data)
-                        mywrite.write(f"{local_time} {proto_T} {layer_v} {src_ip} {dst_ip} {src_port} {dst_port} {pkt_size}\n")
+                with open('traffic', 'a') as mywrite:
+                    mywrite.write(f"{local_time} {proto_T} {layer_v} {src_ip} {dst_ip} {src_port} {dst_port} {pkt_size}\n")
+                        
 with open('peer', 'r') as ips:
     for line in ips:
     	ip = line.rstrip('\n')
