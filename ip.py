@@ -1,4 +1,3 @@
-from ping3 import ping
 import re
 import os
 import requests
@@ -8,14 +7,6 @@ import fileinput
 tracker_address = re.compile("\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}")
 ipbox = list()
 
-def ping_test(ip):
-	result = ping(ip, unit='ms')
-	if result == None:
-		result = 0
-		return result
-	else:
-		result = round(result, 2)
-		return result
 def tracker_list():
 	f = open("tracker", "w")
 	with open("trackers.json", "r") as tracker:
@@ -113,14 +104,18 @@ for ip in ipbox:
 
 p = open("data", 'w')
 for ip in ipbox:
-	ping_result = ping_test(ip)
-	tor = check_tor(ip)
-	tracker = check_tracker(ip)
-	data = user_data(ip)
-	country = data['country']
-	city = data['city']
-	loc = data['loc']
-	p.write(f"{ip} {tor} {tracker} {country} {city} {loc} {ping_result} \n")
+    tor = check_tor(ip)
+    tracker = check_tracker(ip)
+    data = user_data(ip)
+    try:
+        country = data['country']
+        city = data['city']
+        loc = data['loc']
+    except:
+        country =""
+        city = ""
+        loc = ""
+    p.write(f"{ip} {tor} {tracker} {country} {city} {loc}\n")
 
 
 p.close()
